@@ -1,5 +1,5 @@
 def score_to_letter_grade(grade):
-if grade > 90:
+if grade >= 90:
 return "A"
 elif grade >= 87:
 return "B+"
