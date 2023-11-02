@@ -11,10 +11,8 @@ If none of the values are the same, the function will give you the total sum of 
 To begin this program, please follow the instructions provided below.
 
 ## Prerequisites
- Sum_of_Unique_Values.py requires Python 3 and PyCharm Community Edition Version 2022.2 to run. You can install Python and pyCharm from here:
-``` 
+ Sum_of_Unique_Values.py requires Python 3 and PyCharm Community Edition Version 2022.2 to run. You can install Python and pyCharm from here: 
 https://www.python.org/downloads/
-```
 https://www.jetbrains.com/edu-products/download/other-PCE.html 
 
 ## Running
@@ -22,6 +20,7 @@ Once you have Python 3 and PyCharm Community Edition installed, you can run the 
 
 ```
 Python Sum_of_Unique_Values.py
+```
 
 ## Thanks 
 I appreciate the demonstration given by Zak.
