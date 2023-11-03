@@ -1,4 +1,4 @@
-grade = int(input("Enter a number between 0 - 100.\n"))
+grade = int(input('Enter a number between 0 - 100.\n'))
 
 def score_to_letter_grade(grade):
     if grade >= 90:
@@ -21,4 +21,3 @@ def score_to_letter_grade(grade):
 letter_grade = score_to_letter_grade(grade)
 
 print(f"Grade of {grade} should be {letter_grade}")
-
